@@ -1,0 +1,1 @@
+from Calculatrice import Calculatrice, quickadd
